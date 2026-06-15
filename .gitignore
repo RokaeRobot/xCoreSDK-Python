@@ -1,0 +1,7 @@
+# Prebuilt Python extension modules — distributed via GitHub Releases
+**/lib/*.so
+**/lib/*.pyd
+**/lib/*.dll
+
+# Release packaging output
+dist/
