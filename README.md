@@ -4,7 +4,8 @@
 
 ## 在线文档
 
-其他内容与接口说明请访问官网在线文档：
+
+可以通过访问珞石官网在线文档，学习和了解其他SDK内容与其相关API的说明和使用，同时也便于了解珞石的其他技术产品。
 
 * [xCore SDK Python 在线手册](https://docs.rokae.com/docs/SDK/python)
 
